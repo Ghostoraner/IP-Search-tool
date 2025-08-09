@@ -9,10 +9,8 @@ The tool fetches detailed information about an IP, including location, provider,
 
 - Queries IP information like city, region, country, ISP, continent, latitude, and longitude  
 - Detects if the IP is using VPN, Proxy, TOR, or hosting services  
-- Displays country flag emoji  
-- Uses rich library for beautiful terminal output  
-- Automatically opens a Telegram channel link on start
-
+- Uses rich library for beautiful terminal output
+  
 ---
 
 ## Installation
