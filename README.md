@@ -19,20 +19,18 @@ The tool fetches detailed information about an IP, including location, provider,
 
 Make sure you have Python 3 installed. Then install the required packages:
 
-```bash
+```
 pip install requests rich
-
-
+```
 ---
 
 Usage
 
 Run the script:
-
+```
 python IPSEARCH.py
-
+```
 Enter the IP address you want to analyze when prompted.
-
 
 ---
 
@@ -62,7 +60,7 @@ Enter IP address for analysis: 8.8.8.8
 
 ---
 
-Author
+Author 
 
 Owner: Ghostoraner
 Connection: reinsss21@gmail.com 
